@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [YES] Users are see a screen with three labels and a button
 - [YES] Tapping the button changes the screen color to a random color
  
-<iframe src="https://giphy.com/embed/uUL0eHoXRLiqvaacG5" width="480" height="299" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uUL0eHoXRLiqvaacG5">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/uUL0eHoXRLiqvaacG5" width="480" height="299" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uUL0eHoXRLiqvaacG5"></a></p>
 
 ## App Brainstorming (Step 4)
 My favorite apps and why they are my favorites:
