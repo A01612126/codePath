@@ -13,11 +13,7 @@ The following **required** functionality is completed:
 - [YES] Users are see a screen with three labels and a button
 - [YES] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/uUL0eHoXRLiqvaacG5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/uUL0eHoXRLiqvaacG5">via GIPHY</a></p>
 
 ## App Brainstorming (Step 4)
 My favorite apps and why they are my favorites:
